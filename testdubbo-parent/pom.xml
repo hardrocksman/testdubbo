@@ -164,5 +164,6 @@
   <modules>
     <module>testdubbo-server</module>
     <module>testdubbo-client</module>
+    <module>testdubbo-core</module>
   </modules>
 </project>
